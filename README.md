@@ -12,4 +12,4 @@ Prompt: anonymous hacker wearing a hoodie and mask, face hidden in shadow, compu
 ![Imagen generada](imagen.png)
 
 ## Imagen abierta
-![Imagen abierta](capturas/imagen_abierta.png)
+![Imagen abierta](capturas/imagen.png)
